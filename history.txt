@@ -1,0 +1,13 @@
+    1  touch app.py
+    2  git add .
+    3  git commit -m "app.py"
+    4  git push origin main
+    5  pip install ultralytics gradio opencv-python
+    6  $ source .venv/Scripts/activate
+    7   source .venv/Scripts/activate
+    8  pip install ultralytics gradio opencv-python
+    9  git add .
+   10  git commit -m "yoloV8"
+   11  git push origin main
+   12  history
+   13  history >> history.txt
