@@ -1,8 +1,3 @@
-Excellent. Here is a polished, professional **README.md** you can directly paste into your GitHub.
-I’ve kept it industry-quality, clear, and interview-ready.
-
----
-
 # **EdgeSight – Real-Time Object Detection & Tracking**
 
 EdgeSight is a real-time object detection and tracking system built using **YOLOv8 / YOLOv10** and **OpenCV**. It processes live webcam or video streams and identifies multiple objects with high accuracy while maintaining real-time performance. The project focuses on **speed vs accuracy optimization**, **edge deployability**, and **practical real-world usability**.
@@ -127,12 +122,6 @@ Pull requests are welcome. Feel free to open issues for discussion or enhancemen
 
 Open-source for educational and project purposes.
 
----
 
-If you want, I can:
 
-* Add screenshots section
-* Add demo GIF placeholders
-* Add dataset/training explanation
-* Add exact app.py example code
-  Just tell me.
+
