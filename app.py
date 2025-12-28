@@ -149,7 +149,7 @@ def app():
             fn=yolov8_examples,
             inputs=[image, model_id, image_size, conf_threshold],
             outputs=output_image,
-            cache_examples="lazy"
+            cache_examples=False
         )
 
 
